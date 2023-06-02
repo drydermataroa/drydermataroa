@@ -1,3 +1,16 @@
+<img width="100%" src="https://i.imgur.com/C9nBcXA.png">
+
+# 💫 My Code Info:
+```javascript
+const express = {
+  name: "Dryder Mataroa",
+  Language: ["JavaScriot", "TypeScript"," Python"," HTML"," CSS "] 
+  Currently Learning: "Rust",
+  Code Since: 2020 and still learning as I do projects,
+  Currently working: "Music Recording Studio"
+}
+```
+
 # 💫 About Me:
 🔭 I’m currently working on Open Source Projects.<br>👯 I’m interested in nodejs, JavaScript, CSS, Python & HTML.<br>🤝 I’m currently learning SQL & Rust.<br>🌱 My most used language is JavaScript. Will extend in the future.<br>💬 Contact me on Discord: Dryder Mataroa#0001.
 
