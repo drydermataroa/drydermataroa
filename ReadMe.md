@@ -1,12 +1,12 @@
 <img width="100%" src="https://i.imgur.com/C9nBcXA.png">
 
-# 💫 My Code Info:
+# 🔎 My Code Info:
 ```javascript
 const express = {
   name: "Dryder Mataroa",
   Language: ["JavaScriot", "TypeScript"," Python"," HTML"," CSS "] 
   Currently Learning: "Rust",
-  Code Since: 2020 and still learning as I do projects,
+  Code Since: "2020 and still learning as I do projects",
   Currently working: "Music Recording Studio"
 }
 ```
