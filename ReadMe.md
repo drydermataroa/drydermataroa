@@ -4,7 +4,7 @@
 ```javascript
 const express = {
   name: "Dryder Mataroa",
-  Language: ["JavaScriot", "TypeScript"," Python"," HTML"," CSS "] 
+  Language: ["JavaScriot", "TypeScript"," Python"," HTML"," CSS "],
   Currently Learning: "Rust",
   Code Since: "2020 and still learning as I do projects",
   Currently working: "Music Recording Studio"
